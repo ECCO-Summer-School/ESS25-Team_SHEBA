@@ -10,7 +10,7 @@ List all participants on the project. Here is a good space to share your persona
 | Name | Personal goals | Can help with | Role |
 | ------------- | ------------- | ------------- | ------------- |
 | Ali Siddiqui | I want to learn how to access the ECCO data on the cloud, and analyze budget terms in the LLC1080 run.  | I can help with analyzing and understanding the heat budget terms in ECCOv4  | Project Lead |
-| Marie Zahn| Practice leading a software project | machine learning and python (scipy, scikit-learn) | Project Lead |
+| Marie Zahn|  |  | Project Lead |
 
 ### The problem
 
