@@ -5,7 +5,7 @@ This project aims to compute the heat budget of the Arctic using the ECCOv4r5 an
 
 ### Collaborators
 
-List all participants on the project. Here is a good space to share your personal goals for the hackweek and things you can help with.
+List all participants on the project. 
 
 | Name | Personal goals | Can help with | Role |
 | ------------- | ------------- | ------------- | ------------- |
@@ -14,27 +14,13 @@ List all participants on the project. Here is a good space to share your persona
 
 ### The problem
 
-Provide a few sentences describing the problem are you going to explore. If this is a technical exploration of software or data science methods, explain why this work is important in a broader context and specific applications of this work.
-
+The Arctic is warming at an unprecendented rate. One of the first places on Earth to experience the effects of anthropogenic climate change, the Arctic ocean is one the most important places to evaluate the heat budget in observations and models. ECCO provides a perfect opportunity to do so. With closed heat, volume, and salt budgets we can study the processes that drive the changes in ocean heat content. 
 ## Data and Methods
 
 ### Data
 
-Briefly describe and provide citations for the data that will be used (size, format, how to access).
+we use the ECCOv4r5, the latest release of the ECCO state estimate (1992-2019) along with the LLC1080 high resolution simulation that covers the period 2014-2021. Both datasets are available online at various S3 servers. Notebooks that describe how to access them are provided in this repo.  
 
-### Existing methods
-
-How would you or others traditionally try to address this problem? Provide any relevant citations to prior work.
-
-### Proposed methods/tools
-
-What new approaches would you like to implement for addressing your specific question(s) or application(s)?
-
-Will your project use machine learning methods? If so, we invite you to create a [model card](model-card.md)!
-
-### Additional resources or background reading
-
-Optional: links to manuscripts or technical documents providing background information, context, or other relevant information.
 
 ## Project goals and tasks
 
