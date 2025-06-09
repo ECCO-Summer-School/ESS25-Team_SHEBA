@@ -35,3 +35,6 @@ We wanted to close the heat budget in ECCOv4r5 and the LLC1080 run and then look
 
 ## Project Results
 
+The notebooks found in this repository can be used to obtain the heat budget for any region defined by the NSDIC. The following is an example of this. 
+
+![alt text](https://github.com/ECCO-Summer-School/ESS25-Team_SHEBA/blob/main/ESS_github.png)
